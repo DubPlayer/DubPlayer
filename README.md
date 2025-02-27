@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a programmer interested in creating small projects, mostly using react as a main framework. 💪<br><br>Here is a list of things that i know (for now! 👊): <br><br>- Rest APIS<br>- Database manipulation<br>- Front and back development<br>- React + vue<br>- node js to create apps<br>- Html - css - javscript<br>- want to improve everyday!<br><br>My e-mail is eduj1966@gmail.com.</p>
+<p align="left">I'm a programmer interested in creating small projects, mostly using react as a main framework. 💪<br><br>Here is a list of things that i know (for now! 👊): <br><br>- Rest APIS<br>- Database manipulation<br>- Front and back development<br>- React + vue<br>- node js to create apps<br>- Html - css - javascript<br>- want to improve everyday!<br><br>My e-mail is eduj1966@gmail.com.</p>
 
 ###
 
