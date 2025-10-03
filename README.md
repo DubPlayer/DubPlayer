@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduard and I'm a Rookie programmer! 👀</p>
+<p align="left">My name is Eduard and I'm a Software Developer Engineer 👀</p>
 
 ###
 
